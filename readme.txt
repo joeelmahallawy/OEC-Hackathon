@@ -12,6 +12,6 @@ The main code for the GUI is lcoated in /pages/index.tsx
 Any helper functions for the frontend is located in /helpers/ 
 
 **INSTRUCTIONS**
-1. Run 'npm i' to install project dependencies.
-2. Run 'yarn dev' to run a local development server.
+1. Run 'yarn' in the terminal to install project dependencies.
+2. Run 'yarn dev' in the terminal to run a local development server.
 3. Go to 'http://localhost:3000' on a web browser.
